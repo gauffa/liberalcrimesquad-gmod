@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/lcsgame/code/!svn/ver/653/trunk/src/title
+END
+highscore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/lcsgame/code/!svn/ver/590/trunk/src/title/highscore.cpp
+END
+locations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/lcsgame/code/!svn/ver/649/trunk/src/title/locations.cpp
+END
+saveload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/lcsgame/code/!svn/ver/644/trunk/src/title/saveload.cpp
+END
+titlescreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/lcsgame/code/!svn/ver/653/trunk/src/title/titlescreen.cpp
+END
+initfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/lcsgame/code/!svn/ver/653/trunk/src/title/initfile.cpp
+END
+newgame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/lcsgame/code/!svn/ver/644/trunk/src/title/newgame.cpp
+END

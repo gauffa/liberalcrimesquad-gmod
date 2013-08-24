@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/lcsgame/code/!svn/ver/650/trunk/src/items
+END
+clip.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/clip.h
+END
+money.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/money.h
+END
+item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/lcsgame/code/!svn/ver/488/trunk/src/items/item.cpp
+END
+cliptype.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/lcsgame/code/!svn/ver/464/trunk/src/items/cliptype.h
+END
+weapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/lcsgame/code/!svn/ver/463/trunk/src/items/weapon.h
+END
+itemtype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/itemtype.cpp
+END
+weapontype.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/lcsgame/code/!svn/ver/650/trunk/src/items/weapontype.h
+END
+item.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/item.h
+END
+itemtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/itemtype.h
+END
+loot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/loot.cpp
+END
+loottype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/loottype.cpp
+END
+armor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/lcsgame/code/!svn/ver/600/trunk/src/items/armor.cpp
+END
+loot.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/loot.h
+END
+armortype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/lcsgame/code/!svn/ver/600/trunk/src/items/armortype.cpp
+END
+loottype.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/loottype.h
+END
+armor.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/lcsgame/code/!svn/ver/600/trunk/src/items/armor.h
+END
+clip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/clip.cpp
+END
+armortype.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/lcsgame/code/!svn/ver/600/trunk/src/items/armortype.h
+END
+money.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/money.cpp
+END
+cliptype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/lcsgame/code/!svn/ver/458/trunk/src/items/cliptype.cpp
+END
+weapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/lcsgame/code/!svn/ver/463/trunk/src/items/weapon.cpp
+END
+weapontype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/lcsgame/code/!svn/ver/650/trunk/src/items/weapontype.cpp
+END

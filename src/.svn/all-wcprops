@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/p/lcsgame/code/!svn/ver/653/trunk/src
+END
+cursesmovie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/lcsgame/code/!svn/ver/589/trunk/src/cursesmovie.cpp
+END
+configfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/lcsgame/code/!svn/ver/649/trunk/src/configfile.cpp
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/lcsgame/code/!svn/ver/357/trunk/src/vector.h
+END
+location.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/lcsgame/code/!svn/ver/331/trunk/src/location.cpp
+END
+cursesmovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/lcsgame/code/!svn/ver/589/trunk/src/cursesmovie.h
+END
+game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/lcsgame/code/!svn/ver/649/trunk/src/game.cpp
+END
+lcsio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/lcsgame/code/!svn/ver/603/trunk/src/lcsio.cpp
+END
+configfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/lcsgame/code/!svn/ver/590/trunk/src/configfile.h
+END
+includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/lcsgame/code/!svn/ver/653/trunk/src/includes.h
+END
+dumpcaps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/lcsgame/code/!svn/ver/361/trunk/src/dumpcaps.cpp
+END
+location.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/lcsgame/code/!svn/ver/331/trunk/src/location.h
+END
+lcsio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/lcsgame/code/!svn/ver/603/trunk/src/lcsio.h
+END
+compat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/lcsgame/code/!svn/ver/590/trunk/src/compat.cpp
+END
+cursesgraphics_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/lcsgame/code/!svn/ver/361/trunk/src/cursesgraphics_test.c
+END
+cursesgraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/lcsgame/code/!svn/ver/361/trunk/src/cursesgraphics.cpp
+END
+locationdef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/lcsgame/code/!svn/ver/331/trunk/src/locationdef.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/lcsgame/code/!svn/ver/653/trunk/src/Makefile.am
+END
+compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/lcsgame/code/!svn/ver/461/trunk/src/compat.h
+END
+cursesgraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/lcsgame/code/!svn/ver/331/trunk/src/cursesgraphics.h
+END
+locationdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/lcsgame/code/!svn/ver/331/trunk/src/locationdef.h
+END
+externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/lcsgame/code/!svn/ver/649/trunk/src/externs.h
+END

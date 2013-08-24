@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/lcsgame/code/!svn/ver/651/trunk/src/creature
+END
+creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/lcsgame/code/!svn/ver/649/trunk/src/creature/creature.cpp
+END
+creaturenames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/lcsgame/code/!svn/ver/626/trunk/src/creature/creaturenames.cpp
+END
+creature.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/lcsgame/code/!svn/ver/644/trunk/src/creature/creature.h
+END
+creaturetypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/lcsgame/code/!svn/ver/651/trunk/src/creature/creaturetypes.cpp
+END

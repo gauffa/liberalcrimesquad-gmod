@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/lcsgame/code/!svn/ver/651/trunk/src/common
+END
+commondisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/lcsgame/code/!svn/ver/651/trunk/src/common/commondisplay.cpp
+END
+consolesupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/lcsgame/code/!svn/ver/476/trunk/src/common/consolesupport.cpp
+END
+getnames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/lcsgame/code/!svn/ver/649/trunk/src/common/getnames.cpp
+END
+equipment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/lcsgame/code/!svn/ver/644/trunk/src/common/equipment.cpp
+END
+help.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/lcsgame/code/!svn/ver/538/trunk/src/common/help.cpp
+END
+commonactions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/lcsgame/code/!svn/ver/644/trunk/src/common/commonactions.cpp
+END
+translateid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/lcsgame/code/!svn/ver/458/trunk/src/common/translateid.cpp
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/lcsgame/code/!svn/ver/649/trunk/src/common/misc.cpp
+END

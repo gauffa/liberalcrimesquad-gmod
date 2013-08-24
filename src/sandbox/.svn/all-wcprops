@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/lcsgame/code/!svn/ver/548/trunk/src/sandbox
+END
+creature_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/lcsgame/code/!svn/ver/548/trunk/src/sandbox/creature_test.h
+END
+weapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/weapon.h
+END
+lcscommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/lcscommon.h
+END
+creature_factory_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/creature_factory_test.cpp
+END
+creature_namegen_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/creature_namegen_test.cpp
+END
+injury_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/injury_test.h
+END
+saveload_boost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/saveload_boost.cpp
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/globals.h
+END
+creature_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/creature_test.cpp
+END
+creature_type_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/creature_type_test.cpp
+END
+location_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/lcsgame/code/!svn/ver/331/trunk/src/sandbox/location_test.h
+END

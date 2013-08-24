@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 37
+*.obj
+BuildLog.htm
+vc90.idb
+vc90.pdb
+
+END

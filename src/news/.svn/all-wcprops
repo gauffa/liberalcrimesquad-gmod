@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/lcsgame/code/!svn/ver/650/trunk/src/news
+END
+layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/lcsgame/code/!svn/ver/463/trunk/src/news/layout.cpp
+END
+news.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/lcsgame/code/!svn/ver/434/trunk/src/news/news.h
+END
+squadstory_text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/lcsgame/code/!svn/ver/594/trunk/src/news/squadstory_text.cpp
+END
+ads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/lcsgame/code/!svn/ver/632/trunk/src/news/ads.cpp
+END
+headline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/lcsgame/code/!svn/ver/598/trunk/src/news/headline.cpp
+END
+majorevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/lcsgame/code/!svn/ver/650/trunk/src/news/majorevent.cpp
+END
